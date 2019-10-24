@@ -1,3 +1,3 @@
 # gitplay
-another test
+other test
 another testing 2
